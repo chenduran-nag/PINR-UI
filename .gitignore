@@ -69,3 +69,6 @@ ehthumbs.db
 
 # Output and generated files
 eda/outputs/
+
+# Raw datasets (should not be tracked)
+data/raw/
